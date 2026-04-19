@@ -1,7 +1,4 @@
 
-Om Yadav
-1:12 AM (0 minutes ago)
-to me
 
 import streamlit as st
 import pandas as pd
